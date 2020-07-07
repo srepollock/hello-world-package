@@ -74,3 +74,5 @@ docs/
 coverage.lcov
 
 id_rsa*
+
+.rpt2_cache/
