@@ -1,6 +1,6 @@
 {
   "name": "@srepollock/hello-world-package",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A hello-world runner",
   "main": "./lib/main.umd.ts",
   "module": "./lib/main.es.js",

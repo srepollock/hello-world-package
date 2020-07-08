@@ -68,7 +68,6 @@ typings/
 # Additional Project files
 lib/
 dist/
-docs/
 
 # Codecov
 coverage.lcov
